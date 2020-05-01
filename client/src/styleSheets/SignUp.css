@@ -1,0 +1,18 @@
+.container-signup {
+    background-color: lightblue;
+    position: relative;
+    margin: 0 auto;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 50px;
+}
+
+.sign-up-group {
+    text-align: center;
+}
+
+.warning-signup {
+    color: red;
+    position: relative;
+    left: 30%;
+}

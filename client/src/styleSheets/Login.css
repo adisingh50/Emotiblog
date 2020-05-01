@@ -1,0 +1,24 @@
+body {
+    background-image: url("../images/background.jpg");
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.container-login {
+    background-color: lightblue;
+    position: relative;
+    margin: 0 auto;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 50px;
+}
+
+.login-group {
+    text-align: center;
+}
+
+.warning-login {
+    position: relative;
+    left: 30%;
+    color: red;
+}

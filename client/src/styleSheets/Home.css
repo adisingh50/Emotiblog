@@ -1,0 +1,31 @@
+.container-home {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border: 3px solid black;
+    padding: 20px;
+}
+
+.home-welcome-msg {
+    color: firebrick;
+}
+
+.table-posts {
+    width: 100%
+}
+
+.bar-chart {
+    display: inline;
+    float: right;
+    width: 30%;
+    height: 50px;
+}
+
+li {
+    display: inline;
+    list-style: none;
+    padding-left: 1px;
+    padding-right: 1px;
+    width: 30%;
+    height: auto;
+}

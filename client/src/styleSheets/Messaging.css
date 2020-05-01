@@ -1,0 +1,33 @@
+h4 {
+    color: firebrick;
+}
+
+.message-draft {
+    padding-bottom: 20px;
+}
+
+.msg {
+    padding-top: 60px;
+}
+
+.message-input {
+    width: 30%;
+    height: 70px;
+    resize: none;
+}
+
+.area-code {
+    display: inline-block;
+    float: left;
+    width: 50px;
+}
+
+.main-number {
+    display: inline-block;
+    float: left;
+    margin-left: 10px;
+}
+
+.emoji-label {
+    padding-top: 60px;
+}

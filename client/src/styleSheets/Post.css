@@ -1,0 +1,47 @@
+.post-box {
+    border: 2px solid gray;
+    width: 100%;
+    height: 250px;
+    padding: 20px;
+}
+
+.time-block {
+    text-align: right;
+    color: gray;
+}
+
+.name-emoji-block {
+    display: inline-block;
+    padding-right: 20px;
+    height: 170px;
+    float: left;
+    width: 25%;
+}
+
+.content-block {
+    padding: 20px;
+    display: inline-block;
+    background-color: wheat;
+    width: 60%;
+    height: 170px;
+    border-radius: 20px;
+    float: left;
+}
+
+.main-display-img {
+    width: 120px;
+    height: 120px;
+}
+
+.delete-button {
+    margin-top: 150px;
+    color: gray;
+    background: none;
+    border: none;
+    font-size: 15px;
+    float: right;
+}
+
+.delete-button:hover {
+    color: red;
+}

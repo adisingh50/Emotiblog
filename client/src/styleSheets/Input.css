@@ -1,0 +1,14 @@
+.form {
+    margin-left: 20px;
+}
+
+.input {
+    border: 1 px gray;
+    border-radius: none;
+    width: 80%;
+    font-size: 1.2em;
+}
+
+.sendButton {
+    margin-left: 50px;
+}

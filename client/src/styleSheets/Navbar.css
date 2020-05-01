@@ -1,0 +1,21 @@
+.nav-tab {
+    background-color:rgb(170, 49, 49);
+    height: 50px;
+    border-radius: 20px;
+    width: 50%;
+    padding-left: 10px;
+}
+
+.link {
+    background: none;
+    border: none;
+    color: white;
+
+    position: relative;
+    top: 17%;
+    list-style: none;
+    display: inline;
+    margin-left: 0px;
+    margin-right: 2px;
+    font-size: 100%;
+}
