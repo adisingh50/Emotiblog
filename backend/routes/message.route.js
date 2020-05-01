@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const accountSid = 'AC54451dd84f6bfd4d7b2b390583161818';
-const authToken = 'cdd7bae962d8ee7f6a47e36087b783fd';
+const accountSid = 'private';
+const authToken = 'private';
 const client = require('twilio')(accountSid, authToken);
 
 var dict = {
